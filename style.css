@@ -1,0 +1,112 @@
+body{
+    margin: 0px; font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+}
+.header{
+    background-color:#607EAA ;margin:0px;color: white;height: 55px;
+}
+.container1{
+    display: flex;flex-wrap: wrap;justify-content: space-around;width: auto;
+}
+.headerA{width: 60%;}
+.profile{
+    background-color: white;
+    text-align: center;
+}
+.picture1{
+    border-radius: 100%;
+    width: 150px;
+    margin-top: 50px;
+    height: 148px;
+    padding: 10px;
+}
+.location{
+    font-size: smaller;line-height: 5px;color: gray;margin-bottom: 50px;
+}
+.IT{
+    font-size: smaller;line-height: 5px;color: gray;
+}
+#name{
+    color: #1c62cc;
+}
+.passion{
+    background-color: #607EAA;
+    color: white;padding: 5% 7%;display: flex;
+}
+.passion2{
+    font-size: small;
+}
+
+.services{
+    background-color: white;padding: 5% 10%;
+}
+
+.h2services{
+    color: #607EAA;font-style: normal
+}
+.servicesgroup{
+    display: flex;
+    flex-wrap: wrap;justify-content: space-around;
+}
+
+
+.servicesgroup1{background-color: gray;color: white;text-align: center;border-radius: 5px;padding: 5px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 25%;
+
+}
+.servicesgroup2{
+    background-color: gray;color: white;text-align: center;border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 25%;
+
+}
+.servicesgroup3{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 2px;
+    width: 25%;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.puser{font-size: small;}
+.pweb{font-size: small;}
+.pjoy{font-size: small;}
+
+.footer{
+    background-color: #607EAA;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.logo{
+    padding: 25px;
+}
+
+.copy{font-size: xx-small;}
+.pro{font-size: small;color: white;}
+.email{font-size: medium; 
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
